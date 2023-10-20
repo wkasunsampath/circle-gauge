@@ -1,0 +1,1 @@
+export const DEGREES_FOR_PERIGON = 360
